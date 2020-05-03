@@ -1,6 +1,6 @@
 # Demo-Microservice-Spring-Boot-Docker
 
-Microservice with Spring boot and Docker
+Microservice with Spring Boot and Docker
 
 
 ### Commands
