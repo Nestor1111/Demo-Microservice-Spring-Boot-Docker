@@ -1,0 +1,3 @@
+com/nridev/microservice/models/HelloWorld.class
+com/nridev/microservice/controllers/MainController.class
+com/nridev/microservice/MicroserviceApplication.class
